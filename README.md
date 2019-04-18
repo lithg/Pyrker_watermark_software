@@ -1,4 +1,4 @@
-# Pyrker_watermark_software
+# Pyrker: Python Watermark Software
 Put watermark on all of your .png or .jpg files just choosing the path of them.
 Choose the Logo Watermark that you want and start it.
 
